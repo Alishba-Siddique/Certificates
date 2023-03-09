@@ -6,7 +6,7 @@
 
 ## In top five students as Participated in a GDSC Webcamp (15th to 28th Feb 2021)
 
-![Alishba Siddique_page-0001](https://user-images.githubusercontent.com/97811058/223883526-b85d7037-c22b-4800-a950-f6cf8e8619e3.jpg)
+![Alishba Siddique](https://user-images.githubusercontent.com/97811058/223890195-69d51f41-3727-4498-9dc9-a925a6c218af.jpg)
 
 ## As a Trainee at HCC Technology Foundation (Sep 2022 - Dec 2022) 
 
@@ -26,7 +26,7 @@
 
 Gained binary data analysis experience by participating in a kaggle data analysis competition
 
-![Alishba Siddique_page-0001](https://user-images.githubusercontent.com/97811058/223883526-b85d7037-c22b-4800-a950-f6cf8e8619e3.jpg)
+![Alishba-Siddique-Data-101](https://user-images.githubusercontent.com/97811058/223890327-8caa4e5c-70f4-4620-952a-092d81dea03f.png)
 
 ## Participated in a AR VR Bootcamp (7th to 11th April 2021)
 
