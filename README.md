@@ -22,6 +22,10 @@
 
 ![Alishba Siddique_page-0001](https://user-images.githubusercontent.com/97811058/223883526-b85d7037-c22b-4800-a950-f6cf8e8619e3.jpg)
 
+## Participated in a Microsoft Soft OpenCV.
+
+
+
 ## Participated in a GDSC-IBA Datathon101 (13th to 24th April 2020)
 
 Gained binary data analysis experience by participating in a kaggle data analysis competition
