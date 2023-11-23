@@ -22,9 +22,9 @@
 
 ![Alishba Siddique_page-0001](https://user-images.githubusercontent.com/97811058/223883526-b85d7037-c22b-4800-a950-f6cf8e8619e3.jpg)
 
-## Participated in a Microsoft Soft OpenCV.
+## Participated in a Microsoft Soft OpenCV MLSA (9th to 10th March 2021)
 
-
+![Microsoft Soft OpenCV](https://github.com/Alishba-Siddique/Certificates/assets/97811058/ece1f4a5-8f46-4084-8815-8f06d7844ea6)
 
 ## Participated in a GDSC-IBA Datathon101 (13th to 24th April 2020)
 
