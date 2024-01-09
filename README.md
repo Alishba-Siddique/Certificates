@@ -1,5 +1,13 @@
 # Certificates
 
+## Introduction to Generative AI Google Cloud
+
+![Web capture_9-1-2024_20510_](https://github.com/Alishba-Siddique/Certificates/assets/97811058/012ece8f-19ac-4107-b66f-0967ee6f1788)
+
+## Digital Transformation with Google Cloud
+
+![Web capture_9-1-2024_20847_www coursera org](https://github.com/Alishba-Siddique/Certificates/assets/97811058/d126f08f-9329-472f-9095-f9e69a599915)
+
 ## Management Lead at the Core team of GDSC-PUCIT (2021-2022)
 
 ![Alishba Siddique GDSC Core Team_page-0001](https://user-images.githubusercontent.com/97811058/223884028-4b4149ab-f4f3-4f3b-a71e-81f760b3b444.jpg)
