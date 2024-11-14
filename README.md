@@ -31,6 +31,15 @@
 
 ![Alishba Siddique HTF Soft Skills](https://user-images.githubusercontent.com/97811058/223887834-bdb774e3-fda8-46c8-9a57-16ff06997165.jpg)
 
+## Mindstrom Game Fellowship
+    -Completed intensive training in Hyper Casual game development and Unity C# programming.
+    -Collaborated in a dynamic team of 4 to develop engaging Hyper Casual games during the Rookie Summer Game Jam.
+    -Achieved top 296 out of 1600 participants, showcasing strong teamwork and problem-solving skills.
+
+<img width="186" alt="image" src="https://github.com/user-attachments/assets/dba8d99c-e92e-4842-87a9-c8534e69279d">
+<img width="105" alt="image" src="https://github.com/user-attachments/assets/df4f161c-b864-4b77-9a93-41cece552bd7">
+
+
 ## Participated in a GDSC Bootcamp101 (13th to 24th April 2020)
 
 ![Alishba Siddique_page-0001](https://user-images.githubusercontent.com/97811058/223883526-b85d7037-c22b-4800-a950-f6cf8e8619e3.jpg)
