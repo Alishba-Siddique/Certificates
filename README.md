@@ -1,5 +1,10 @@
 # Certificates
 
+## [Python for Data Science and AI](https://www.credly.com/badges/1b808dc4-826a-445b-bc89-cd49ddbb9785/linked_in_profile)
+
+![python-ds-certificate-IBM](https://github.com/user-attachments/assets/f6c7dfd0-6039-441d-9a37-e25492035c4a)
+
+
 ## Introduction to Generative AI Google Cloud
 
 ![Web capture_9-1-2024_20510_](https://github.com/Alishba-Siddique/Certificates/assets/97811058/012ece8f-19ac-4107-b66f-0967ee6f1788)
